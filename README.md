@@ -1,4 +1,4 @@
-# iotprint-server
+# iotprint-api
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 ![Prerequisite](https://img.shields.io/badge/node-14.4.0-blue.svg)
